@@ -1,6 +1,6 @@
 <html>
 <title>develop</title>
 <body>
-<h2>Hello World!</h2>
+<h6>Maven Test App</h6>
 </body>
 </html>
